@@ -42,8 +42,8 @@ plugins:
       post_dir: "{blog}/posts"
       pagination: true
       posts_per_page: 5
-  - macros:
-      module_name: main
+  # - macros:
+  #     module_name: main
 
 nav:
   - Home: index.md

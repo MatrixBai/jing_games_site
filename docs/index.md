@@ -1,13 +1,14 @@
+---
+hide:
+  - navigation
+  - toc
+---
 
 # Welcome to JING GAMES
-{% if posts %}
-  {% for post in posts | sort(attribute='date.created', reverse=true) | slice(3) %}
-    <article>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      <p>{{ post.excerpt }}</p>
-      <p><small>Posted on {{ post.date.created }}</small></p>
-    </article>
-  {% endfor %}
-{% else %}
-  <p>No blog posts found.</p>
-{% endif %}
+
+# Latest Posts
+
+!!! note "**The First Post**"
+    Dear DevLog,
+
+    We are Yukai and Loomi, a couple who spent years creating our game Indulgence. This is the first letter to you, and it's long overdue. I know we should have been here from the start, writing down every bit of the game, sharing our joy, frustration, and even anger along the way. But why didn't we? [Continue Reading](./blog/2025/07/30/the-first-post/)
