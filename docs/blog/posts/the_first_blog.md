@@ -2,6 +2,9 @@
 date: 2025-07-30
 title: The First Post
 cover_image: images/my-image.jpg
+authors:
+  - yukai
+  - loomi
 ---
 
 Dear DevLog,
