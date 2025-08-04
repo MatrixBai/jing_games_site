@@ -3,6 +3,9 @@ site_url: https://jing.games/
 
 theme:
   name: material
+  font:
+    text: Neuton # Set Neuton as the main text font
+    code: Roboto Mono # For code blocks
   custom_dir: overrides
   features:
     - navigation.path
