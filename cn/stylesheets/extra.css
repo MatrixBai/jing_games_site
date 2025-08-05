@@ -1,0 +1,112 @@
+/* Import Neuton for redundancy and custom weights */
+@import url('https://fonts.googleapis.com/css2?family=Neuton:wght@400;700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+/* Import VCR OSD Mono for headings/metadata (host locally or use a system font like Courier New) */
+@font-face {
+    font-family: 'VCR OSD Mono';
+    src: url('/fonts/VCR_OSD_Mono.woff2') format('woff2');
+}
+
+/* Main text style for blog posts */
+.md-typeset {
+    font-family: 'Neuton', serif;
+    font-size: 1.15rem; /* ~23px, based on Material’s 1rem = 20px */
+    line-height: 1.8; /* Comfortable for reading */
+}
+
+/* Paragraphs */
+.md-typeset p {
+    margin-bottom: 1.5em;
+}
+
+/* Headings with retro monospaced font */
+.md-typeset h1 {
+    font-family: 'Bebas Neue', 'Courier New', monospace;
+    font-size: 1.8rem;
+    color: #5b5a65; 
+    letter-spacing: 0.05em;
+}
+
+/* Blog metadata (author, date) */
+.md-typeset .mdx-author,
+.md-typeset .mdx-date {
+    font-family: 'Bebas Neue', 'Courier New', monospace;
+    font-size: 0.9rem;
+    color: #b3b3b3;
+}
+
+/* Responsive adjustments for mobile */
+@media screen and (max-width: 768px) {
+    .md-typeset {
+        font-size: 1rem; /* Smaller for mobile */
+    }
+    .md-typeset h1 {
+        font-size: 1.5rem;
+    }
+    .md-typeset h2 {
+        font-size: 1.2rem;
+    }
+}
+
+:root
+{
+    --dark0:  #2e3440;
+    --dark1:  #3b4252;
+    --dark2:  #434c5e;
+    --dark3:  #4c566a;
+
+    --light0: #d8dee9;
+    --light1: #e5e9f0;
+    --light2: #eceff4;
+    --light3: #ffffff;
+
+    --frost0: #8fbcbb;
+    --frost1: #88c0d0;
+    --frost2: #81a1c1;
+    --frost3: #5e81ac;
+
+    --red:    #bf616a;
+    --orange: #d08770;
+    --yellow: #ebcb8b;
+    --green:  #a3be8c;
+    --purple: #b48ead;
+}
+
+p {
+    margin-bottom: 1em;
+  }
+
+h1
+{
+    color: var(--red);
+}
+
+h2 
+{
+    color: var(--orange);
+    font-size: 60px;
+}
+
+h3 
+{
+    color: var(--frost0);
+    font-size: 60px;
+}
+
+body {
+    background-color: var(--light0);
+    font-size: 16px;
+  }
+
+  
+.md-content em {
+    color: var(--frost3);
+}
+
+.cards li {
+    color:rebeccapurple;
+    background-color: var(--yellow);
+}
+
