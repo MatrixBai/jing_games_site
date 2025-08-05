@@ -1,0 +1,63 @@
+site_name: JING GAMES
+site_url: https://jing.games/
+
+theme:
+  name: material
+  language: en
+  font:
+    text: Neuton # Set Neuton as the main text font
+    code: Roboto Mono # For code blocks
+  features:
+    - navigation.path
+    - navigation.top
+    - navigation.tracking
+    - navigation.sections
+    - navigation.indexes 
+    - search.suggest
+    - content.tooltips
+    - navigation.tabs          # Enables navigation tabs at the top
+    - navigation.tabs.sticky  # Optional: Keeps tabs fixed at the top when scrolling
+    - navigation.language_selector  # Enables language switcher
+    - content.code.copy
+    - content.tabs
+docs_dir: docs
+site_dir: site
+
+markdown_extensions:
+  - abbr
+  - attr_list
+  - md_in_html
+  - pymdownx.snippets
+  - pymdownx.details
+  - pymdownx.superfences
+  - def_list
+  - admonition
+  - pymdownx.tasklist
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+plugins:
+  - search
+  - tags
+  - blog:
+      blog_dir: blog
+      post_dir: "{blog}/posts"
+      pagination: true
+      posts_per_page: 5
+  # - macros:
+  #     module_name: main
+
+extra:
+  alternate:
+    - name: 中文
+      link: https://cn.example.com/
+      lang: zh
+
+nav:
+  - Home: index.md
+  - Blog: 
+    - blog/index.md
+
+extra_css:
+  - stylesheets/extra.css

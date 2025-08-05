@@ -1,12 +1,12 @@
 site_name: JING GAMES
-site_url: https://jing.games/
+site_url: https://jing.games/zh
 
 theme:
   name: material
+  language: zh
   font:
     text: Neuton # Set Neuton as the main text font
     code: Roboto Mono # For code blocks
-  custom_dir: overrides
   features:
     - navigation.path
     - navigation.top
@@ -47,6 +47,12 @@ plugins:
       posts_per_page: 5
   # - macros:
   #     module_name: main
+
+extra:
+  alternate:
+    - name: English
+      link: https://jing.games/
+      lang: en
 
 nav:
   - Home: index.md
