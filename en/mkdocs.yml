@@ -51,7 +51,7 @@ plugins:
 extra:
   alternate:
     - name: 中文
-      link: https://cn.example.com/
+      link: https://jing.games/cn
       lang: zh
 
 nav:
