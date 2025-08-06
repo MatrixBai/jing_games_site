@@ -2,18 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://jing.games/</loc>
-         <lastmod>2025-08-05</lastmod>
+         <lastmod>2025-08-06</lastmod>
     </url>
     <url>
          <loc>https://jing.games/blog/</loc>
-         <lastmod>2025-08-05</lastmod>
+         <lastmod>2025-08-06</lastmod>
+    </url>
+    <url>
+         <loc>https://jing.games/blog/2025/08/06/something-is-coming/</loc>
+         <lastmod>2025-08-06</lastmod>
     </url>
     <url>
          <loc>https://jing.games/blog/2025/07/30/the-first-post/</loc>
-         <lastmod>2025-08-05</lastmod>
+         <lastmod>2025-08-06</lastmod>
     </url>
     <url>
          <loc>https://jing.games/blog/archive/2025/</loc>
-         <lastmod>2025-08-05</lastmod>
+         <lastmod>2025-08-06</lastmod>
     </url>
 </urlset>
