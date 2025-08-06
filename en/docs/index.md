@@ -8,6 +8,9 @@ hide:
 
 # Latest Posts
 
+!!! note "**Something Is Coming**"
+    I’m thinking, if I were someone who’d never written a thing, clueless about stringing words together, the moment I saw this “opening words”  appear online, I’d probably be dancing with joy, waving my arms like a kid who just discovered candy. [Continue reading](./blog/2025/08/06/something_is_coming/)
+
 !!! note "**The First Post**"
     Dear DevLog,
 
