@@ -1,0 +1,18 @@
+{% extends "main.html" %}
+
+{% block content %}
+  {{ super() }} 
+
+  <h1>Random Blog Posts</h1>
+  {% if config.extra.blog_posts %}
+    {% for post in config.extra.blog_posts %} {# Loop through all blog posts #}
+      <article>
+        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+        <p>{{ post.excerpt }}</p>
+        <p><small>Published on {{ post.date }}</small></p>
+      </article>
+    {% endfor %}
+  {% else %}
+    <p>No blog posts available.</p>
+  {% endif %}
+{% endblock %}
