@@ -51,7 +51,6 @@ plugins:
       post_dir: "blog/posts"
       post_excerpt: optional
       pagination: true
-      posts_per_page: 5
   # - macros:
   #     module_name: main
   
@@ -69,6 +68,10 @@ extra:
       url: blog/posts/2025/08/06/something-is-coming/
       excerpt: I’m thinking, if I were someone who’d never written a thing, clueless about stringing words together, the moment I saw this “opening words” appear online, I’d probably be dancing with joy, waving my arms like a kid who just discovered candy.
       date: 2025-08-09
+    - title: The Narrative Sandbox Game
+      url: blog/posts/2025/08/16/the-narrative-sandbox-game/
+      excerpt: Indulgence, the game we are developing, is a narrative sandbox. Unlike ACT, RPG, or Rogue-lite, which are more approachable for mainstream players. The Narrative Sandbox is primarily targeted for dedicated players, as many mainstream gamers are unfamiliar with it. Therefore...
+      date: 2025-08-16
 nav:
   - Home: index.md
   - Blog: 
