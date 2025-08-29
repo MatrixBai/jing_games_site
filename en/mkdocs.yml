@@ -64,14 +64,14 @@ extra:
       url: blog/2025/07/30/the-first-post/
       excerpt: Dear DevLog, We are Yukai and Loomi, a couple who spent years creating our game Indulgence. This is the first letter to you, and it's long overdue. I know we should have been here from the start, writing down every bit of the game, sharing our joy, frustration, and even anger along the way. But why didn't we?
       date: 2025-07-30
-    - title: Something is Coming
-      url: blog/2025/08/06/something-is-coming/
-      excerpt: I’m thinking, if I were someone who’d never written a thing, clueless about stringing words together, the moment I saw this “opening words” appear online, I’d probably be dancing with joy, waving my arms like a kid who just discovered candy.
-      date: 2025-08-09
     - title: The Narrative Sandbox Game
       url: blog/2025/08/16/the-narrative-sandbox-game/
       excerpt: Indulgence, the game we are developing, is a narrative sandbox. Unlike ACT, RPG, or Rogue-lite, which are more approachable for mainstream players. The Narrative Sandbox is primarily targeted for dedicated players, as many mainstream gamers are unfamiliar with it. Therefore...
       date: 2025-08-16
+    - title: "From Millennial Slumber to UI Design: The Retro-Future of Dieselpunk"
+      url: blog/2025/08/29/from-millennial-slumber-to-ui-design-the-retro-future-of-dieselpunk/
+      excerpt: "In sci-fi films, there’s always that unforgettable scene: a spaceship hits a crisis, hibernation pods creak open, and the sleepers inside emerge, struggling awake from viscous liquid, coughing, gasping. These “aged infants,” in their half-dreaming, half-waking moment, flash a glimmer of bewilderment in their eyes, as if a thousand years of time condense into a single instant."
+      date: 2025-08-29
 nav:
   - Home: index.md
   - Blog: 
