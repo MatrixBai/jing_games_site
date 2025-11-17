@@ -4,7 +4,7 @@ title: The Birth of Studio Logo
 authors:
 - loomi
 ---
-![](http://jing.games/assets/blog/devlog-2025-11-17.jpg)
+![](http://jing.games/assets/blog/devlog-2025-11-17.png)
 
 "Jing" springs from the "晶" in my partner's and my names. Three suns stacked in oracle bones once meant stars in the sky.
 

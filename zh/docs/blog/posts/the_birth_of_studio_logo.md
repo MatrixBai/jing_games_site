@@ -4,7 +4,7 @@ title: 工作室Logo诞生记
 authors:
 - loomi
 ---
-![](http://jing.games/assets/blog/devlog-2025-11-17.jpg)
+![](http://jing.games/assets/blog/devlog-2025-11-17.png)
 
 “Jing”取自我和伙伴名字里的“晶”。这个字由三个“日”组成，在甲骨文中原本指天上的星星——设计之初，我们只知道名字里有这个字；如今写日志时才明白，它天生就带着光。
 
