@@ -6,7 +6,7 @@ authors:
 ---
 ![](http://jing.games/assets/blog/devlog-2025-11-17.png)
 
-"Jing" springs from the "晶" in my partner's and my names. Three suns stacked in oracle bones once meant stars in the sky.
+"Jing" springs from the "晶" in my partner's and my names. Three suns stacked in oracle bones once meant stars in the sky. <!--more -->
 
 Video Games first land on the eyes. So we started with "睛" (eyeball)—homophone to "晶." The logo's heart: an ancient eye glyph, raw, gritty, a primal spell's punch. We wanted cave-paint vibes—alien yet déjà vu.
 
