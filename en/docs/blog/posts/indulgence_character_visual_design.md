@@ -4,7 +4,7 @@ title: Indulgence Character Visual Design
 authors:
 - loomi
 ---
-Character visual design is the part closest to players’ hearts in a game. When iterating on our characters, I decided to focus almost entirely on one foundational element: body proportions. Once proportions are set, they dictate everything that comes after—clothing, facial expressions, animation style, and even the overall art direction. <!--more-->
+Character visual design is the part closest to players’ hearts in a game. When iterating on our characters, I decided to focus almost entirely on one foundational element: body proportions. Once proportions are set, they dictate everything that comes after—clothing, facial expressions, animation style, and even the overall art direction. <!-- more -->
 
 # Phase 1: Five-Head Realistic Proportions
 
