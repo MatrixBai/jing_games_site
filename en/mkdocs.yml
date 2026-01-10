@@ -74,6 +74,7 @@ extra:
       date: 2025-08-29
 nav:
   - Home: index.md
+  - Indulgence: indulgence/index.md
   - Blog: 
     - blog/index.md
 
