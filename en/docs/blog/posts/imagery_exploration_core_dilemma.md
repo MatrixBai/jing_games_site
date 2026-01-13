@@ -10,7 +10,6 @@ Does the exterior shell need to strictly match the interior in perspective?
 <!-- more -->
 The biggest obstacle is the camera zoom: as it pulls in, the outer shell “disappears,” revealing the interior. In 2D, this is even more dramatic — the shell fades, and the room jumps forward. This means the exterior’s detail level must roughly match the refinement of large furniture when viewed up close.  
 That logic drove me crazy for a while, constantly doubting whether my detail was right.
-![](../../assets/blog/devlog-2026-01-14/12_29.png)
 
 **From Experiments to Perspective Breakthrough**
 
@@ -42,7 +41,6 @@ It failed: every building became a boring square block with zero personality.
 
 Stuck, I drew tons of wild shapes just to feel unstuck. Finally I decided to fully separate them: exteriors use frontal presentation for strong silhouette and recognizability, no longer tied to the interior structure.  
 Not perfect, but it felt like real relief.
-![](../../assets/blog/devlog-2026-01-14/draft_abattoir.jpg)
 **Looking Back**
 
 This whole journey took enormous effort and carried me through confusion → experimentation → persistence → acceptance.
