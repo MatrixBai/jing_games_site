@@ -17,15 +17,15 @@ I did countless exterior tests and realized single-point perspective didn’t wo
 
 After many tries, I adopted scattered perspective and dynamic viewing from Chinese painting.  
 It solved the problem beautifully: no matter where a building sits on screen, everything feels unified and natural.
-![](../../assets/blog/devlog-2026-01-14/loomi_10_18.png)
+![](/assets/blog/devlog-2026-01-14/loomi_10_18.png)
 
 **From Side-View to Orthographic: The Hard Shift to Real Depth**
 
 Early on we used side-view: houses “open” to show 2D interiors like *Oxygen Not Included*. But walls and foreground objects overlapped badly — the image felt cramped with almost no sense of space.
-![](../../assets/blog/devlog-2026-01-14/loomi_10_29.png)
+![](/assets/blog/devlog-2026-01-14/loomi_10_29.png)
 I looked at *Starbound*’s pixel scenes (gorgeous, but not my strength). Eventually I returned to what I’m good at: orthographic perspective — rooms with floors and matching exterior perspective, finally achieving real interior-exterior consistency.
 
-![](../../assets/blog/devlog-2026-01-14/Loomi_10_04.png)
+![](/assets/blog/devlog-2026-01-14/Loomi_10_04.png)
 
 **Trade-offs in God’s-eye View**
 
@@ -33,7 +33,7 @@ Players act as “God” and need global overview, so pure linear side-scrolling
 We extended the ground plane, placing linear scenes on a larger flat surface.
 
 Still, we refused the standard solution (*Stardew Valley*-style separation) and stuck to our perspective. This forced lots of unconventional adjustments to pathfinding, item placement, and generation mechanics — all to create a fresh visual language instead of copying others.
-![](../../assets/blog/devlog-2026-01-14/loomi_10_27.png)
+![](/assets/blog/devlog-2026-01-14/loomi_10_27.png)
 **Bottleneck & Compromise: Exterior–Interior Separation**
 
 For large scenes and villages, I first tried scattered or top-down perspective for consistent space when houses open.  
